@@ -1,3 +1,9 @@
+---
+title: "Servidor virtual con Base de Datos"
+date: 2025-06-30  # ¡Asegúrate de que la fecha coincida con el nombre del archivo!
+layout: single    # o "post" si prefieres el layout de entrada de blog
+---
+
 > **Despliegue** **en** **Servidor** **Virtual** **con** **Base** **de**
 > **Datos**
 >
